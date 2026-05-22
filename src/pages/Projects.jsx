@@ -6,7 +6,7 @@ const projects = [
     title: "CyberDetective",
     description:
       "Educational cybersecurity game developed in Unity to teach phishing, ransomware and DDoS attacks through interactive minigames.",
-    image: "/src/assets/CyberDetective.png",
+    image: "/cyber4.png",
     tags: ["Unity", "C#", "Cybersecurity"],
     source: "https://github.com/Horacio935/CyberDetective.git",
   },
@@ -16,7 +16,7 @@ const projects = [
     title: "HyperToys",
     description:
       "E-commerce platform focused on anime collectibles using React, Express, Oracle Database and JWT authentication.",
-    image: "/src/assets/HyperToys.jpeg",
+    image: "/HyperToys.jpeg",
     tags: ["React", "Node.js", "Oracle", "JWT", "Stripe"],
     source: "https://github.com/Joliva07/HyperToys.git",
   },
@@ -27,7 +27,7 @@ const projects = [
     title: "AI Sign Language Translator",
     description:
       "Real-time translator capable of converting sign language into text using Machine Learning and Computer Vision.",
-    image: "/src/assets/traductor.png",
+    image: "/translator3.png",
     tags: ["Python", "AI", "Computer Vision"],
     source: "https://github.com/jyocj46/traductor_se.git",
   },
@@ -38,7 +38,7 @@ const projects = [
   title:"Payment Receipt Automation",
   description:
     "Automated system developed with Python and Streamlit to generate employee payment receipts from Excel files and export them as PDFs for a security company.",
-  image:"/src/assets/comprobante.png",
+  image:"/comprobante.png",
   tags:["Python","Streamlit","Excel","PDF"],
   source:"https://github.com/Horacio935/Automatizaci-n-de-comprobantes.git",
   },

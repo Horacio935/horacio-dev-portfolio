@@ -21,7 +21,7 @@ function App() {
 
           {/* FOTO */}
           <img
-            src="src/assets/Foto.jpeg"
+            src="/Foto.jpeg"
             alt="perfil"
             className="w-48 h-48 relative -top-24 rounded-full border-4 border-black object-cover object-top"
           />
